@@ -1,3 +1,6 @@
 Fruit & vegetables
 ------------------
 
+apple
+pear
+banana
